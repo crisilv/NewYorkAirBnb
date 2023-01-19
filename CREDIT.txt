@@ -1,0 +1,2 @@
+Airbnb data taken from a kaggle public dataset: https://www.kaggle.com/datasets/ebrahimelgazar/new-york-city-airbnb-market
+New York rent data taken from Zumper.com: https://www.zumper.com/rent-research/new-york-ny
